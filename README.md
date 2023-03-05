@@ -1,4 +1,4 @@
-# Person 🧑🏻‍🦱 - Dog 🐶 - Cat Model 🐈
+# Person 🧑🏻‍🦱 - Dog 🐶 - Cat 🐈 Model
 
 <img src="img.jpg" width="800"/>
 
