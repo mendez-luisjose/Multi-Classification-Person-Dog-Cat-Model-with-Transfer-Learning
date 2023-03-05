@@ -15,7 +15,7 @@ Test the Model by yourself running the `main.py` file, built with `Streamlit`.
 
 Remember first to run the model `jupyter notebook` file and save it.
 
-<img src="preview.jpg" width="800"/>
+<img src="preview.png" width="800"/>
 
 ## Run
 ```sh
