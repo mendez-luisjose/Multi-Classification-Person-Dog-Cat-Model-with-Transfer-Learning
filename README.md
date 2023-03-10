@@ -23,6 +23,8 @@ streamlit run app.py
 ```
 
 ## Resources
+- Code Explained at: https://mendezluisjose.hashnode.dev/person-dog-cat-multi-classification-model
+
 - Dog-Cat Dataset: https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset
 
 - Human Faces Dataset: https://www.kaggle.com/datasets/ashwingupta3012/human-faces
