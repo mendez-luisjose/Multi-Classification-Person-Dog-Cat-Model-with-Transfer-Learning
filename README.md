@@ -22,4 +22,8 @@ Remember first to run the model `jupyter notebook` file and save it.
 streamlit run app.py
 ```
 
+## Resources
+- Dog-Cat Dataset: https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset
+
+- Human Faces Dataset: https://www.kaggle.com/datasets/ashwingupta3012/human-faces
 
